@@ -4,3 +4,4 @@ pyhdb
 git+https://github.com/alundesap/python-jws.git/#egg=jws
 python_jwt
 pycrypto
+jupyterlab
